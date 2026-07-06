@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sujitha 👋
 
-<!--
-**sujitha-2306/sujitha-2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech student in Artificial Intelligence & Data Science.
 
-Here are some ideas to get you started:
+💡 I enjoy building projects, solving DSA problems, and exploring AI, Machine Learning, and Computer Vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently
+- Building AI projects
+- Practicing DSA
+- Learning Full Stack Development
+
+### 🛠 Tech Stack
+- Python
+- C++
+- Java
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+### 📫 Reach Me
+- LinkedIn: https://www.linkedin.com/in/sujitharajavel
+- Email: sujitharajavel23@gmail.com
+
+---
+*"Learning, building, and improving every day."* 🌱
